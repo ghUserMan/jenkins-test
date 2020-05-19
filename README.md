@@ -1,2 +1,2 @@
 # jenkins-test
-упражняюсь в написании jinkinsfile
+упражняюсь в написании Jenkinsfile 
